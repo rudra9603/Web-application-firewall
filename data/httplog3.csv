@@ -1,0 +1,4 @@
+method,path,body,single_q,double_q,dashes,braces,spaces,badwords_count,class
+GET,b'/login.jsp',b'',0,0,0,0,0,0,1
+POST,b'/doLogin',b'uid=hello&passw=world&btnSubmit=Login',0,0,0,0,0,1,1
+GET,b'/index.jsp?content=inside_careers.htm',b'',0,0,0,0,0,0,1
